@@ -1,16 +1,16 @@
 <head>
 	<title>nemcms - du vælger indholdet</title>
-	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+	<link rel="stylesheet" href="css/main.css" type="text/css" />
 	<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" type="text/css" />
-	<link rel="stylesheet" href="/farbtastic/farbtastic.css" type="text/css" />
-	<link rel="stylesheet" href="/uploadify/uploadify.css" type="text/css" />
+	<link rel="stylesheet" href="farbtastic/farbtastic.css" type="text/css" />
+	<link rel="stylesheet" href="uploadify/uploadify.css" type="text/css" />
 	<script src="http://code.jquery.com/jquery-1.8.2.js"></script>
 	<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 	<script src="http://malsup.github.com/jquery.form.js"></script>
-	<script src="/jquery.lightbox_me.js"></script>
-	<script src="/ckeditor/ckeditor.js"></script>
-	<script src="/farbtastic/farbtastic.js"></script>
-	<script src="/uploadify/jquery.uploadify.js"></script>
+	<script src="jquery.lightbox_me.js"></script>
+	<script src="ckeditor/ckeditor.js"></script>
+	<script src="farbtastic/farbtastic.js"></script>
+	<script src="uploadify/jquery.uploadify.js"></script>
 </head>
 <body>
 <div id="Contanier">
