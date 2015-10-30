@@ -1,7 +1,7 @@
 <table>
   <tbody>
     <tr>
-(tekst her)
+<?php include 'bund-menu.php'; ?>
   </tr>
   </tbody>
 </table>
