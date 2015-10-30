@@ -1,0 +1,40 @@
+body 
+{
+background:#eeeeee;
+margin:0;
+color:#555;
+font-size:0.825em;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+#Contanier 
+{
+background:blue;
+width:850px;
+height:auto;
+border:1px solid black;
+margin:10px auto 0px auto;
+overflow:hidden;
+}
+
+#Contanier .contentbox {
+background:transparent;
+width:47%;
+min-height:100px;
+border:1px solid #eeeeee;
+margin:1% 1% 0% 1% ;
+float:left;
+color:white;
+}
+
+#Contanier .contentbox-nyheder {
+background:transparent;
+width:47%;
+min-height:100px;
+border:1px solid #eeeeee;
+margin:1% 1% 0% 1% ;
+float:left;
+color:red;
+}
