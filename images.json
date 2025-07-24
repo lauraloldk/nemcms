@@ -1,0 +1,29 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "filename": "522641339_24913271721594425_3418185400618028271_n.jpg",
+            "original_name": "522641339_24913271721594425_3418185400618028271_n.jpg",
+            "title": "lol",
+            "alt": "lol",
+            "file_size": 308731,
+            "mime_type": "image\/jpeg",
+            "width": 946,
+            "height": 2048,
+            "uploaded_at": "2025-07-23T19:14:55+02:00"
+        }
+    ],
+    "meta": {
+        "version": "1.0",
+        "last_modified": "2025-07-23T19:14:55+02:00",
+        "upload_path": "images\/",
+        "allowed_types": [
+            "jpg",
+            "jpeg",
+            "png",
+            "gif",
+            "webp"
+        ],
+        "max_file_size": 5242880
+    }
+}

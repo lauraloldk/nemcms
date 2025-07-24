@@ -1,0 +1,15 @@
+Opgaver:
+
+Opgaver Igang:
+
+
+Opgaver færdig:
+-opret en side-liste på index hvor alle sider vises som kort/resumé, og når man klikker på en titel vises den fulde side. ✅
+-opret en billede sektion i admin. Billederne bliver tilføjet til images mappen. og images.json filen holder styr på navn på billedet. når man bruger billede elementet skal man nemt kunne vælge et billede fra galleriet. der skal også være en Javascript billede viser på showpages, så man kan se billedet man trykker på i større format. ✅
+-Opgave: Når man opretter/retter en side, så skal vi ændre det sådan, at indhold sektionen er en liste med elementer i stedet for en tekstbox. så kan man i en dropdown vælge i mellem "Stor Tekst" = <h1> og "Normal Tekst" = <p> og så kan man vælge egenskaberne for elementerne. man skal kunne tilføje/fjerne/rette så mange elementer man vil på en side, og flere elementer kan blive tilføjet senere. ✅
+-Fejlrettelse: Forbedre IP-detektion for at håndtere forskellige miljøer og sikre korrekt admin adgang. ✅
+-Opgave 1: Opret et cms system hvor der er et admin panel, til at oprette sider. sider bliver gemt i pages.json ✅
+-Underopgave 1-1: Brugere og admin brugere bliver håndteret i usersAndAdmins.json og hvis ip adressen findes i json, og denne er admin kan man logge ind. ✅
+-Hvis der ikke er nogen bruger tilføjet skal userIPs.php selv registrere nuværende ip som admin. ✅
+-Underopgave 1-2: Dette skal være et system bygget på moduler, hvor man skal kunne customize stort set alt i admin panelet. så vi skal bygge det på en måde, så vi ikke behøver at ændre alt når json filerne får flere typer information at arbejde med. ✅
+-Fejlrettelse: Rette null pointer fejl i userIPs.php relateret til usersAndAdmins.json håndtering ✅

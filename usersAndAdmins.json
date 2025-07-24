@@ -1,0 +1,11 @@
+{
+    "admins": [
+        "::1"
+    ],
+    "users": [],
+    "settings": {
+        "auto_register_first_admin": false,
+        "site_name": "CMS System",
+        "version": "1.0"
+    }
+}
