@@ -1,7 +1,5 @@
 {
-    "admins": [
-        "::1"
-    ],
+    "admins": [],
     "users": [],
     "settings": {
         "auto_register_first_admin": false,
